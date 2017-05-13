@@ -7,3 +7,5 @@ Technologies:
 * Rails 5.1
 
 * React
+
+* Material UI
